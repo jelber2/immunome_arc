@@ -1,0 +1,34 @@
+#!/usr/bin/bash
+
+cat FL846r1_1.fastq.gz FL846r2_1.fastq.gz > FL846-R1.fastq.gz
+cat FL855r1_1.fastq.gz FL855r2_1.fastq.gz > FL855-R1.fastq.gz
+cat FL857r1_1.fastq.gz FL857r2_1.fastq.gz > FL857-R1.fastq.gz
+cat FL880r1_1.fastq.gz FL880r2_1.fastq.gz > FL880-R1.fastq.gz
+cat GG1044r1_1.fastq.gz GG1044r2_1.fastq.gz > GG1044-R1.fastq.gz
+cat GG1435r1_1.fastq.gz GG1435r2_1.fastq.gz > GG1435-R1.fastq.gz
+cat GG1835r1_1.fastq.gz GG1835r2_1.fastq.gz > GG1835-R1.fastq.gz
+cat GG462r1_1.fastq.gz GG462r2_1.fastq.gz > GG462-R1.fastq.gz
+cat LA62r1_1.fastq.gz LA62r2_1.fastq.gz > LA62-R1.fastq.gz
+cat LA66r1_1.fastq.gz LA66r2_1.fastq.gz > LA66-R1.fastq.gz
+cat LA77r1_1.fastq.gz LA77r2_1.fastq.gz > LA77-R1.fastq.gz
+cat LA78r1_1.fastq.gz LA78r2_1.fastq.gz > LA78-R1.fastq.gz
+cat SD102r1_1.fastq.gz SD102r2_1.fastq.gz > SD102-R1.fastq.gz
+cat SD103r1_1.fastq.gz SD103r2_1.fastq.gz > SD103-R1.fastq.gz
+cat SD106r1_1.fastq.gz SD106r2_1.fastq.gz > SD106-R1.fastq.gz
+cat SD108r1_1.fastq.gz SD108r2_1.fastq.gz > SD108-R1.fastq.gz
+cat FL846r1_2.fastq.gz FL846r2_2.fastq.gz > FL846-R2.fastq.gz
+cat FL855r1_2.fastq.gz FL855r2_2.fastq.gz > FL855-R2.fastq.gz
+cat FL857r1_2.fastq.gz FL857r2_2.fastq.gz > FL857-R2.fastq.gz
+cat FL880r1_2.fastq.gz FL880r2_2.fastq.gz > FL880-R2.fastq.gz
+cat GG1044r1_2.fastq.gz GG1044r2_2.fastq.gz > GG1044-R2.fastq.gz
+cat GG1435r1_2.fastq.gz GG1435r2_2.fastq.gz > GG1435-R2.fastq.gz
+cat GG1835r1_2.fastq.gz GG1835r2_2.fastq.gz > GG1835-R2.fastq.gz
+cat GG462r1_2.fastq.gz GG462r2_2.fastq.gz > GG462-R2.fastq.gz
+cat LA62r1_2.fastq.gz LA62r2_2.fastq.gz > LA62-R2.fastq.gz
+cat LA66r1_2.fastq.gz LA66r2_2.fastq.gz > LA66-R2.fastq.gz
+cat LA77r1_2.fastq.gz LA77r2_2.fastq.gz > LA77-R2.fastq.gz
+cat LA78r1_2.fastq.gz LA78r2_2.fastq.gz > LA78-R2.fastq.gz
+cat SD102r1_2.fastq.gz SD102r2_2.fastq.gz > SD102-R2.fastq.gz
+cat SD103r1_2.fastq.gz SD103r2_2.fastq.gz > SD103-R2.fastq.gz
+cat SD106r1_2.fastq.gz SD106r2_2.fastq.gz > SD106-R2.fastq.gz
+cat SD108r1_2.fastq.gz SD108r2_2.fastq.gz > SD108-R2.fastq.gz
